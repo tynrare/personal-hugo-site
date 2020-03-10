@@ -24,6 +24,14 @@ Interested in devising a better problem-solving method for challenging tasks, an
   Also in love with graphics, CLIs, problem solving and process optimisation.
   """
 
+## Contacts Configurations
+[params.contacts]
+  email = "tymonr@yandex.ru"
+  github = "tynrare"
+  twitter = "tynrare"
+  linkedin = "tynrare"
+  stackoverflow = "7829041"
+  keybase = "tynrare"
 
 ## Footer Configurations
 [params.footer]
