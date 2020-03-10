@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "hugo --gc --minify --source ./ --themesDir ./themes -t repo --baseURL $HUGO_BASE_URL"
+  command = "hugo --gc --minify --source ./ --themesDir ../.. -t repo --baseURL $HUGO_BASE_URL"
 
 [context.production.environment]
   HUGO_VERSION = "0.55.1"
