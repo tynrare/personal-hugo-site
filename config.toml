@@ -41,6 +41,10 @@ Interested in devising a better problem-solving method for challenging tasks, an
   name = "My exams"
   url = "http://www.tynrare.net/apps/exams/"
 
+[params.actions.bible]
+  name = "My Bible"
+  url = "https://medium.com/swlh/62-lessons-from-50-years-of-software-experience-2db0f400f706"
+
 ## Footer Configurations
 [params.footer]
   copyright = "© 2020 tynrare. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
