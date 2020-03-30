@@ -41,6 +41,10 @@ Interested in devising a better problem-solving method for challenging tasks, an
   name = "My exams"
   url = "http://www.tynrare.net/apps/exams/"
 
+[params.actions.experiments]
+  name = "My experiments"
+  url = "http://www.tynrare.net/apps/experiments/shaders/"
+
 [params.actions.bible]
   name = "My Bible"
   url = "https://medium.com/swlh/62-lessons-from-50-years-of-software-experience-2db0f400f706"
